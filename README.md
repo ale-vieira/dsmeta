@@ -6,3 +6,5 @@ Utilizando Java no back-end e React no front-end, onde realizamos uma consulta d
 
 Página do projeto:
 https://dsmeta-ale.netlify.app/
+
+OBS: Projeto estava com backend estava no Hyroku, porém acabou a gratuidade, será movido para outro servidor.
